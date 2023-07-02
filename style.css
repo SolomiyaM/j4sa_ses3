@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.bpm {
+  position: absolute;
+  top: 140px;
+  color: white;
+  background-color: 88;
+}
